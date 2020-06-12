@@ -1,0 +1,57 @@
+{
+  "paragraphs": [
+    {
+      "text": "%spark2\nversion\n",
+      "user": "admin",
+      "dateUpdated": "Jun 11, 2020 9:16:03 PM",
+      "config": {
+        "colWidth": 12.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala"
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1591935161830_-1478705882",
+      "id": "20200611-211241_907313858",
+      "dateCreated": "Jun 11, 2020 9:12:41 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%spark2\n",
+      "user": "admin",
+      "dateUpdated": "Jun 11, 2020 9:16:03 PM",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1591935363996_1887167797",
+      "id": "20200611-211603_1129483656",
+      "dateCreated": "Jun 11, 2020 9:16:03 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "gp_gip_zeppelin_note",
+  "id": "2FB1A56XX",
+  "angularObjects": {
+    "2CHS8UYQQ:shared_process": [],
+    "2CK8A9MEG:shared_process": [],
+    "2C4U48MY3_spark2:shared_process": [],
+    "2CKAY1A8Y:shared_process": [],
+    "2CKEKWY8Z:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
